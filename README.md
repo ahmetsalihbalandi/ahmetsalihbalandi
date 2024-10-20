@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ahmetsalihbalandi
-
-
-
-that's it!
+-
+-
+-
+-
+-
+-
+-
+-  that's it!
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
